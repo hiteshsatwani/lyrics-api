@@ -35,4 +35,4 @@ app.get('/api/lyrics/:artist/:song', (req, res) => {
 
 
 })
-app.listen(process.env.PORT || 6000, () => console.log("Listening on " + process.env.PORT))                                                            
+app.listen(6000, () => console.log("Listening on 6000"))                                                            
