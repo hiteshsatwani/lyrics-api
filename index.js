@@ -35,4 +35,4 @@ app.get('/api/lyrics/:artist/:song', (req, res) => {
 
 
 })
-app.listen(6000, () => console.log("Listening on 6000"))                                                            
+app.listen(7789, () => console.log("Listening on 7789"))                                                            
